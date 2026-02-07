@@ -13,6 +13,6 @@ HTML5 & CSS3: Custom Flexbox layouts and backdrop-filter effect.
 JavaScript: Using Async/Await and Fetch API  to get weather information.
 
 ## How to use
-Enter 4-letter ICAO code (e.g., KSEA(Seattle Tacoma International Airport), RJTT(Tokyo Haneda International Airport))
-Click the search icon.
-View current airport condition.
+1. Enter 4-letter ICAO code (e.g., KSEA(Seattle Tacoma International Airport), RJTT(Tokyo Haneda International Airport))
+2. Click the search icon.
+3. View current airport condition.
